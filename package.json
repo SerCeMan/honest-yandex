@@ -1,6 +1,6 @@
 {
   "name": "honest-yandex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Honest Yandex",
   "scripts": {
     "clean": "rm -rf dist && rm -f dist.zip",
