@@ -37,7 +37,8 @@ yarn dist
 
 ## Installation
 
-The extension can be installed by either building from sources or from a releases GitHub tab, and then loading it as
+The extension can be installed by either building from sources or from
+the [releases tab](https://github.com/SerCeMan/honest-yandex/releases), and then loading it as
 an [unpacked extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked).
 
 Publishing the extension to the Chrome Marketplace is in progress.
